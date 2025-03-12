@@ -1,0 +1,15 @@
+width=20
+depth=2
+topq=10
+split=50000
+lambda=3
+M=100
+N=0
+P=1
+outdir=''
+datadir=''
+dataform='adult_train.csv'
+datatest='adult_test.csv'
+DAGform='DAG_20200204_015525-310601.csv'
+datalabel='adult'
+feature='adult'
