@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date    : 2018-10-06 16:45:17
-# @Author  : Xin Du (x.du@tue.nl)
+# @Author  : 
 # @Link    : http://example.org
 # @Version : $0.1$
 
